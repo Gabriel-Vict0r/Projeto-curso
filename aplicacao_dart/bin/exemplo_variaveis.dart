@@ -1,4 +1,3 @@
-import 'package:aplicacao_dart/aplicacao_dart.dart' as aplicacao_dart;
 import 'dart:io';
 
 void main(List<String> arguments) {
